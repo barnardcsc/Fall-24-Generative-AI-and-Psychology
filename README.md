@@ -9,5 +9,5 @@ This workshop is designed to transform your ideas into mobile app prototypes—n
 
 **For quick access to resources & links from this workshop, please see below:**
   1. [Plant Mate mobile app prototype](https://www.figma.com/proto/pk0xMhCvdZG5oJlWaJJgvH/PlantMate_Prototype?node-id=297-562&node-type=canvas&t=DFmZA1XO2Bb8d09R-0&scaling=scale-down&content-scaling=fixed&page-id=39%3A135&starting-point-node-id=297%3A562&show-proto-sidebar=1)
-  2. [Figma](figma.com)
-  3. [ChatGPT](chat.openai.com)
+  2. [Figma](https://www.figma.com)
+  3. [ChatGPT](https://www.chat.openai.com)
